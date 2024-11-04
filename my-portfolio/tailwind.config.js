@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    // colors: {
+    //   myCustomColor: '#ff4500', // Replace with your desired hex value
+    // }
   },
   plugins: [],
 }
