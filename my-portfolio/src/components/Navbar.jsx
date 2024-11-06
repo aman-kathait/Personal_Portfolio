@@ -9,7 +9,7 @@ const Navbar = () => {
     {id:1,text:"About Me"},{id:2,text:"Skills"},{id:3,text:"Projects"},{id:4,text:"Education"},{id:5,text:"Contact"}
   ]
   return (
-    <nav className='max-w-screen-2xl container mx-auto h-16 px-2 md:px-12 shadow-md fixed top-0 left-0 right-0 bg-white'>
+    <nav className='max-w-screen-2xl container mx-auto h-16 px-2 md:px-20 shadow-md fixed top-0 left-0 right-0 bg-white'>
       <div className='flex justify-between h-16 items-center '>
       <div className='flex '> 
         <span className='text-black font-semibold text-xl'>&lt;Aman </span>

@@ -1,14 +1,45 @@
 import React from 'react'
+import { FaLinkedin } from "react-icons/fa";
+import { FaSquareGithub } from "react-icons/fa6";
+import { RiTwitterXFill } from "react-icons/ri";
+import { ReactTyped } from "react-typed";
 
 const HeroSection = () => {
   return (
     <>
-    <div className='max-w-screen-2xl container mx-autopx-4 mx:px-2 my-20'>
-      <div>Left</div>
-      <div>Right</div>
-      <div>
-        <p className='bg-slate-700'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur incidunt, alias harum veniam odit perferendis iure quibusdam exercitationem dolores, tempore hic modi aperiam error! Voluptatum in dolorem, consequuntur, obcaecati a sint provident, nostrum tempore magni nobis exercitationem repellendus natus quos asperiores amet deserunt nisi quis minima animi reprehenderit. Aperiam adipisci soluta nobis est voluptatem corrupti perspiciatis? Perspiciatis, ratione fuga quos, in quam at ipsa vero est incidunt officia velit vitae dolorem? Dolores exercitationem molestiae quo neque nisi perferendis omnis, id beatae repudiandae officia vel sapiente? Eveniet ullam consequatur quo, ipsum in dignissimos rerum eos veniam esse. Nostrum ducimus dicta nemo. Totam repudiandae fugit alias obcaecati voluptatibus illum provident dolorum velit, libero, reprehenderit non accusantium iste, cupiditate nostrum. Qui, dicta aliquid. Labore dolor accusantium deserunt a suscipit architecto quam earum cumque facilis molestias maxime, possimus optio nihil corrupti quos veniam sit natus aspernatur dolore ducimus nostrum consequuntur eos quas. Odio obcaecati delectus ipsam tempore at! Quibusdam perferendis ipsa, nostrum porro aliquid aperiam ullam sunt reiciendis. Iste, sit. Animi, sunt dolorem mollitia dolore nobis consectetur fuga blanditiis est, dolores voluptatem deleniti reiciendis, nemo quidem magnam architecto ea! Suscipit accusamus aliquam doloremque. Eligendi ab perspiciatis dolorum voluptate, magnam libero recusandae culpa optio doloribus quae autem voluptatibus! Veniam incidunt aliquid dolorum tenetur fugit. Ducimus tempora at perferendis quidem ratione temporibus ad corporis nemo error, iusto mollitia suscipit quaerat aliquid impedit itaque doloremque dolorum nobis blanditiis animi rem quod eveniet laborum. Perferendis quae sit necessitatibus libero, voluptatem fuga error iusto dolores, tempora hic beatae quo obcaecati ab vel voluptate aspernatur alias. Tempore itaque doloremque dicta obcaecati alias fuga dolore repudiandae quam voluptas ab non fugit veniam incidunt iste, explicabo voluptates odio. Voluptatem culpa, beatae libero quis similique odio molestias sequi dolorum dolorem aut numquam sed, quo eaque aspernatur perferendis nihil, esse veritatis nesciunt voluptates ex eos iste! Nemo obcaecati fuga at dolore, sapiente eligendi nam earum nostrum cum quia corrupti cupiditate repudiandae itaque neque dicta ullam, excepturi, perspiciatis voluptates quibusdam aliquam nulla ratione error sit ipsam. Exercitationem beatae blanditiis, cumque dolorem repellat in, quisquam reiciendis itaque perspiciatis esse obcaecati ad minima reprehenderit tenetur dolorum amet velit consectetur architecto? Error cupiditate velit animi officia unde reprehenderit obcaecati in pariatur consequatur quia excepturi nulla at fuga tenetur quae facere, rerum numquam placeat. Amet, error! Eaque deserunt, numquam earum commodi dicta, aperiam maiores ab atque fugit fugiat placeat corporis, qui minus sunt natus blanditiis ipsum ipsa? Deserunt obcaecati quisquam a excepturi libero voluptatibus dolor temporibus amet ea ut, quibusdam, exercitationem quod, perferendis fuga illo atque odio ex rem! Provident reprehenderit rem dicta? Similique numquam neque delectus sequi rerum ut laborum earum necessitatibus reprehenderit quisquam beatae laboriosam facilis, fugiat consectetur. Quo, ab eligendi fugit adipisci hic rem natus nostrum nisi, ad accusantium atque dignissimos quae repudiandae ipsum aliquid dicta laudantium? Sunt, alias inventore. Deserunt modi nulla nemo enim nesciunt excepturi voluptatibus quia corporis sed debitis architecto eligendi quo aut id saepe nisi, recusandae, ipsam animi laudantium velit non distinctio facilis quibusdam. Asperiores expedita quibusdam inventore delectus at blanditiis voluptas facilis? Saepe, suscipit vel id perferendis quasi accusamus animi quisquam ea tempora distinctio doloremque iure. Reiciendis blanditiis, corporis illum et debitis accusantium impedit fuga rem eaque labore illo, nesciunt obcaecati! Aliquam illum laboriosam commodi tenetur, aspernatur doloremque beatae eum odit similique facere iusto asperiores! Voluptates illo itaque dolore optio unde impedit rerum, dolor laborum fugit alias architecto eius. Quasi at minus quae culpa. Natus ad, fuga odio nostrum ullam praesentium debitis architecto exercitationem, accusantium repellendus expedita dolorum eum numquam animi cumque. Dicta velit mollitia recusandae esse maxime accusantium laudantium id labore accusamus, quia dignissimos, voluptatem praesentium hic, cum debitis in ducimus odio ad doloribus nobis. Cupiditate, odit sint nesciunt dolor similique reiciendis exercitationem aspernatur laudantium accusamus impedit odio nisi ab placeat repellendus eos vitae sunt, laborum repudiandae praesentium nam quam eveniet soluta corporis! Voluptate, aperiam, omnis sed fugiat provident corrupti impedit modi incidunt dolore atque deleniti maiores vero qui dignissimos illum nobis adipisci magni beatae repellendus dolor voluptatum aliquam minima optio minus. Rem voluptates animi maxime illo corporis! Ipsam quidem harum autem perferendis magnam neque totam porro expedita corporis molestias velit veniam quos distinctio voluptatibus, cumque molestiae laboriosam, eaque iste sequi excepturi quasi atque! Ipsam reiciendis provident, delectus autem saepe excepturi maxime cum id cupiditate vero, soluta voluptate praesentium distinctio eveniet iste laboriosam dignissimos architecto odit! Beatae provident veniam distinctio odio, aut et tempora quas culpa ducimus eos eum obcaecati ex fuga blanditiis velit porro odit dolores eveniet consequuntur perspiciatis! Impedit cum facere culpa deleniti quis maiores dicta harum eveniet tempora corrupti ullam, laboriosam ea nihil reprehenderit voluptates, minima praesentium nobis excepturi. Eius tenetur quia quaerat mollitia non dolorem eum rem, facere consequatur? Molestiae, totam consectetur dolores sed voluptatem dolorum quia, maxime ad aut incidunt repellendus voluptate mollitia ab blanditiis deserunt natus quam praesentium consequatur fuga fugit eveniet nihil! Molestiae eius velit minima id necessitatibus fugiat accusamus nulla ipsam nihil minus est doloremque, recusandae itaque numquam laboriosam non similique neque ipsum rem aperiam maxime? Sint itaque non, inventore vitae, sunt animi dolore placeat veritatis voluptatum recusandae sed nostrum officiis eum quos iusto eveniet! Repudiandae consequatur iure vitae recusandae velit, alias cum sed beatae autem! Repudiandae deserunt saepe explicabo ad assumenda fugiat ducimus nulla earum exercitationem, iste modi. Natus fugit ducimus amet illo optio dolore exercitationem nesciunt cumque, ipsa rem aliquid laudantium quas nihil omnis eveniet dolores ad sapiente obcaecati nostrum reprehenderit debitis tempora odit saepe? Odio, officiis. Libero, quidem maiores atque debitis consequatur cupiditate rem quo dolores exercitationem quis id quae eligendi ipsa, ut in repellat ducimus saepe animi nobis officia. Soluta explicabo iste tempore asperiores eveniet a voluptatibus autem aut expedita? Nobis recusandae ab laborum deserunt totam repudiandae minus dicta amet pariatur itaque ratione asperiores, voluptates libero sit! Laboriosam ad voluptas, magni officiis enim, dignissimos vel rerum ipsa debitis hic nobis, animi sunt asperiores porro incidunt minima necessitatibus. Nesciunt blanditiis eius voluptatum nam laudantium placeat quasi in, corrupti, sed iste modi! Laborum nesciunt dolor, suscipit recusandae vel voluptas maxime iste porro, labore quo amet consectetur mollitia eos magnam incidunt.</p>
+    <div className='max-w-screen-2xl container mx-auto px-24 mx:px-24 my-20 '>
+      <div className='flex flex-col md:flex-row '>
+        <div className='md:w-1/2 mt-12 md:mt-20 space-y-2'> 
+          <h1 className='text-4xl font-bold '>Aman Kathait</h1>
+          <div className='flex text-2xl space-x-1 md:text-4xl font-bold'>
+            <h1>I'm a&nbsp;</h1>
+            {/* <span className='text-orange-600 font-bold'>Full Stack Developer</span> */}
+            <ReactTyped
+              className='text-orange-600 font-bold'
+              strings={["Full Stack Developer"]}
+              typeSpeed={40}
+              backSpeed={40}
+              loop={true}
+            />
+          </div>
+          <br />
+          <p className='text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, amet corrupti. Nobis quo architecto sed neque eaque vitae, .</p><br />
+          <div className='space-y-2'>
+            <h1 className='font-bold text-lg'>Available on</h1>
+            <ul className='flex space-x-5'>
+              <li><FaLinkedin className='text-2xl cursor-pointer hover:text-blue-800 hover:scale-110 duration-200'/></li>
+              <li><FaSquareGithub className='text-2xl cursor-pointer hover:text-blue-800 hover:scale-110 duration-200'/></li>
+              <li><RiTwitterXFill className='text-2xl cursor-pointer  hover:text-blue-800 hover:scale-110 duration-200'/></li>
+            </ul>
+          </div>
+        </div>
+        <div className='md:w-1/2 ml-52 mt-16'>
+          <img src="../../about.jpg" alt="" srcset="" className='w-[400px] h-[400px] rounded-full'/>
+         
+        </div>
       </div>
+      
+      
     </div>
     </>
     
