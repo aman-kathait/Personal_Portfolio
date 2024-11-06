@@ -33,8 +33,8 @@ const HeroSection = () => {
             </ul>
           </div>
         </div>
-        <div className='md:w-1/2 ml-52 mt-16'>
-          <img src="../../about.jpg" alt="" srcset="" className='w-[400px] h-[400px] rounded-full'/>
+        <div className='md:w-1/2 ml-52 mt-16 '>
+          <img src="../../about.jpg" alt="" srcset="" className='w-[400px] h-[400px] rounded-full animate-profile-animate'/>
          
         </div>
       </div>
