@@ -20,7 +20,7 @@ const Navbar = () => {
       <ul className='hidden md:flex space-x-8 '>
         {
           navItems.map((item)=>(
-            <li key={item.id} className='hover:text-orange-600 cursor-pointer hover:scale-105 duration-200'>{item.text}</li>
+            <li key={item.id} className='font-semibold hover:text-orange-600 cursor-pointer hover:scale-105 duration-200'>{item.text}</li>
           ))
         }
       </ul>
@@ -29,7 +29,7 @@ const Navbar = () => {
       </div>
       </div>
       <div className='hidden md:flex'>
-        <button className='m-2space-x-8 border-solid border-2 border-orange-400 p-2 rounded-lg hover:bg-orange-400 hover:text-white duration-300'>Download Cv</button>
+        <button className='m-2space-x-8 border-solid border-2 border-orange-400 p-2 rounded-lg hover:bg-orange-400 hover:text-white duration-300 font-semibold'>Github Profile</button>
       </div>
       </div>
 
